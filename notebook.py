@@ -65,7 +65,7 @@ ignored_participants = [4, 33]
 
 # %% Load questionnaire
 questionnaire_df = pd.read_csv(
-    "data/questionnaire_data-561422-2025-11-17-1240.csv", sep=";"
+    "data/questionnaire_data-561422-2025-11-21-1620.csv", sep=";"
 )
 
 # %% Parse repeating questionnaire columns
